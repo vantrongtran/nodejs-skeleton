@@ -1,7 +1,7 @@
 # Node skeleton project with mysql database
 - Use Sequelize ORM
 - Yarn
-# Create datatabase
+# Create database
 
 ```
 npm install -g sequelize-cli
